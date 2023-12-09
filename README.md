@@ -27,8 +27,8 @@ This Python script automates the cleanup of your Downloads folder by organizing 
    ```
 
 3. Create a virtual environment (optional but recommended)
-4. 
-5. ```bash
+ 
+   ```bash
    python -m venv name_of_virtual_environment
    source name_of_virtual_ennvironment/bin/activate # On linux or macOS
    name_of_virtual_environment\Scripts\activate # On windows
